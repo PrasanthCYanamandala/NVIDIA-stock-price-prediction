@@ -1,6 +1,6 @@
 # 📈 NVIDIA Stock Price Movement Prediction – AML Project
 
-This repository contains submission for **Project** in the **Applied Machine Learning (AML)** course. The goal of this project is to **predict NVIDIA’s stock price direction (up/down)** using a rich set of features derived from historical stock data, technical indicators, macroeconomic variables, and company financials.
+This repository contains the **project** for **Applied Machine Learning (AML)** course. The goal of this project is to **predict NVIDIA’s stock price direction (up/down)** using a rich set of features derived from historical stock data, technical indicators, macroeconomic variables, and company financials.
 
 ## 🎯 Project Objective
 
