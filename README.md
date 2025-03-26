@@ -1,6 +1,6 @@
-# 📈 NVIDIA Stock Price Movement Prediction – BUAN 6341 AML Project 1
+# 📈 NVIDIA Stock Price Movement Prediction – AML Project
 
-This repository contains Group 5's submission for **Project 1** in the **Applied Machine Learning (AML)** course (BUAN 6341). The goal of this project is to **predict NVIDIA’s stock price direction (up/down)** using a rich set of features derived from historical stock data, technical indicators, macroeconomic variables, and company financials.
+This repository contains submission for **Project** in the **Applied Machine Learning (AML)** course. The goal of this project is to **predict NVIDIA’s stock price direction (up/down)** using a rich set of features derived from historical stock data, technical indicators, macroeconomic variables, and company financials.
 
 ## 🎯 Project Objective
 
@@ -51,14 +51,8 @@ This repository contains Group 5's submission for **Project 1** in the **Applied
 
 4. **Next Steps (not in current version)**  
    - Implement classification models (e.g., Random Forest, XGBoost, LSTM)  
-   - Evaluate prediction accuracy on unseen stock data  
-
-## 👥 Group Members
-
-- **Siva Srinivas Narra** – SXN230069  
-- **Prashanth Chowdary Yanamandala** – PXY230011  
-- **Tarun Raghu** – TXR230002  
-
+   - Evaluate prediction accuracy on unseen stock data
+     
 ---
 
 📌 *This project demonstrates the power of combining financial, technical, and macroeconomic data in time-series modeling for stock movement prediction.*
